@@ -14,5 +14,14 @@
     <module>renren-generator</module>
     <module>gms-common</module>
     <module>gms-member</module>
+    <module>gms-coupon</module>
+    <module>gms-gateway</module>
+    <module>gms-order</module>
+    <module>gms-product</module>
+    <module>gms-search</module>
+    <module>gms-ware</module>
+    <module>gms-third-party</module>
+    <module>gms-cart</module>
+    <module>gms-auth</module>
   </modules>
 </project>
