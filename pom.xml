@@ -10,8 +10,8 @@
 
   <name>gms</name>
   <modules>
-    <module>renren-fast-master</module>
-    <module>renren-generator-master</module>
+    <module>renren-fast</module>
+    <module>renren-generator</module>
     <module>gms-common</module>
     <module>gms-member</module>
   </modules>
