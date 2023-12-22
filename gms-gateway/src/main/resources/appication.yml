@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: root
+    password: root123
+    url: jdbc:mysql://localhost:13306/gulimall_ums
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  application:
+    name: gms-gataway

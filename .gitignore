@@ -38,3 +38,4 @@ build/
 .DS_Store
 /renren-vue/node_modules/
 /.idea/
+/out/
